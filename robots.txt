@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bhonny663s.github.io/www-new-maiqiuweb-com-cn/sitemap.xml
